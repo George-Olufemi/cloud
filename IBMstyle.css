@@ -1,0 +1,20 @@
+.sidebar {
+    background-color: #212529;
+    max-height: 860px;
+    overflow-y: scroll;
+}
+
+.list-group-item {
+    color: white;
+    background-color: #212529
+}
+.list-group-item-dark {
+    color: white;
+    background-color: transparent;
+}
+.main-content {
+    background-color: lightgrey;
+}
+.table {
+    background-color: white;
+}
